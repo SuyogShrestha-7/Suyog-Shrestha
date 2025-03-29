@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm [Suyog Shrestha]  
 
 ## 🤖 About Me & My Interest in Development  
 I am a **first-year Computer Science student**, passionate about software development and constantly exploring new technologies. I enjoy **solving problems through coding** and **building projects** that enhance my skills. My goal is to become a **proficient developer** by working on real-world applications and collaborating with like-minded individuals.  
